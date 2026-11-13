@@ -1,0 +1,206 @@
+{
+  "_comment": "Stripe payment links are left empty on purpose. Do not create Stripe products until Simon approves marketing/DIRECT_SALES_PROPOSAL.md. A non-empty url plus enabled=true will reveal the matching Buy direct button on the site.",
+  "products": {
+    "fss01-signed-paperback": {
+      "title": "The Pause Rule \u2014 signed paperback",
+      "book_id": "FSS-01",
+      "type": "print-signed",
+      "price_usd": "12.99",
+      "url": "",
+      "enabled": false
+    },
+    "fss01-signed-hardcover": {
+      "title": "The Pause Rule \u2014 signed hardcover",
+      "book_id": "FSS-01",
+      "type": "print-signed",
+      "price_usd": "22.99",
+      "url": "",
+      "enabled": false
+    },
+    "dtp01-preopen-checklist": {
+      "title": "Before the Open \u2014 Pre-Open Checklist (printable PDF)",
+      "book_id": "DTP-01",
+      "type": "digital-pdf",
+      "price_usd": "2.99",
+      "url": "",
+      "enabled": false,
+      "button_label": "Buy the Pre-Open Checklist \u2014 $2.99"
+    },
+    "dtp01-signed-paperback": {
+      "title": "Before the Open \u2014 signed paperback",
+      "book_id": "DTP-01",
+      "type": "print-signed",
+      "price_usd": "24.99",
+      "url": "",
+      "enabled": false
+    },
+    "dtp01-signed-hardcover": {
+      "title": "Before the Open \u2014 signed hardcover",
+      "book_id": "DTP-01",
+      "type": "print-signed",
+      "price_usd": "39.99",
+      "url": "",
+      "enabled": false
+    },
+    "dtp02-signed-paperback": {
+      "title": "Read the Candles \u2014 signed paperback",
+      "book_id": "DTP-02",
+      "type": "print-signed",
+      "price_usd": "24.99",
+      "url": "",
+      "enabled": false
+    },
+    "dtp02-signed-hardcover": {
+      "title": "Read the Candles \u2014 signed hardcover",
+      "book_id": "DTP-02",
+      "type": "print-signed",
+      "price_usd": "39.99",
+      "url": "",
+      "enabled": false
+    },
+    "playbook-signed-paperback": {
+      "title": "Cyber Safety Made Simple \u2014 signed paperback",
+      "book_id": "LEG-CYB-PLAYBOOK",
+      "type": "print-signed",
+      "price_usd": "12.99",
+      "url": "",
+      "enabled": false
+    },
+    "playbook-signed-hardcover": {
+      "title": "Cyber Safety Made Simple \u2014 signed hardcover",
+      "book_id": "LEG-CYB-PLAYBOOK",
+      "type": "print-signed",
+      "price_usd": "22.99",
+      "url": "",
+      "enabled": false
+    },
+    "forensic-signed-paperback": {
+      "title": "Forensic Footprints \u2014 signed paperback",
+      "book_id": "LEG-CYB-FORENSIC",
+      "type": "print-signed",
+      "price_usd": "12.99",
+      "url": "",
+      "enabled": false
+    },
+    "forensic-signed-hardcover": {
+      "title": "Forensic Footprints \u2014 signed hardcover",
+      "book_id": "LEG-CYB-FORENSIC",
+      "type": "print-signed",
+      "price_usd": "22.99",
+      "url": "",
+      "enabled": false
+    },
+    "home-signed-paperback": {
+      "title": "Cybersecurity at Home \u2014 signed paperback",
+      "book_id": "LEG-CYB-HOME",
+      "type": "print-signed",
+      "price_usd": "13.99",
+      "url": "",
+      "enabled": false
+    },
+    "home-signed-hardcover": {
+      "title": "Cybersecurity at Home \u2014 signed hardcover",
+      "book_id": "LEG-CYB-HOME",
+      "type": "print-signed",
+      "price_usd": "22.99",
+      "url": "",
+      "enabled": false
+    },
+    "ai-signed-paperback": {
+      "title": "AI for Everyday Use \u2014 signed paperback",
+      "book_id": "LEG-AI-EVERYDAY",
+      "type": "print-signed",
+      "price_usd": "18.95",
+      "url": "",
+      "enabled": false
+    },
+    "ai-signed-hardcover": {
+      "title": "AI for Everyday Use \u2014 signed hardcover",
+      "book_id": "LEG-AI-EVERYDAY",
+      "type": "print-signed",
+      "price_usd": "28.95",
+      "url": "",
+      "enabled": false
+    },
+    "money-signed-paperback": {
+      "title": "Money Made Simple \u2014 signed paperback",
+      "book_id": "LEG-MONEY",
+      "type": "print-signed",
+      "price_usd": "14.99",
+      "url": "",
+      "enabled": false
+    },
+    "money-signed-hardcover": {
+      "title": "Money Made Simple \u2014 signed hardcover",
+      "book_id": "LEG-MONEY",
+      "type": "print-signed",
+      "price_usd": "24.99",
+      "url": "",
+      "enabled": false
+    },
+    "path-signed-paperback": {
+      "title": "Building A Path \u2014 signed paperback",
+      "book_id": "LEG-PATH",
+      "type": "print-signed",
+      "price_usd": "13.99",
+      "url": "",
+      "enabled": false
+    },
+    "path-signed-hardcover": {
+      "title": "Building A Path \u2014 signed hardcover",
+      "book_id": "LEG-PATH",
+      "type": "print-signed",
+      "price_usd": "22.99",
+      "url": "",
+      "enabled": false
+    },
+    "openclaw-signed-paperback": {
+      "title": "The Beginner's Guide to OpenClaw \u2014 signed paperback",
+      "book_id": "LEG-OPENCLAW",
+      "type": "print-signed",
+      "price_usd": "14.99",
+      "url": "",
+      "enabled": false
+    },
+    "openclaw-signed-hardcover": {
+      "title": "The Beginner's Guide to OpenClaw \u2014 signed hardcover",
+      "book_id": "LEG-OPENCLAW",
+      "type": "print-signed",
+      "price_usd": "24.99",
+      "url": "",
+      "enabled": false
+    },
+    "paperclip-signed-paperback": {
+      "title": "Automate to Elevate \u2014 signed paperback",
+      "book_id": "EXT-PAPERCLIP",
+      "type": "print-signed",
+      "price_usd": "13.99",
+      "url": "",
+      "enabled": false
+    },
+    "paperclip-signed-hardcover": {
+      "title": "Automate to Elevate \u2014 signed hardcover",
+      "book_id": "EXT-PAPERCLIP",
+      "type": "print-signed",
+      "price_usd": "22.99",
+      "url": "",
+      "enabled": false
+    },
+    "faith-signed-paperback": {
+      "title": "30 Days of Faith & Focus \u2014 signed paperback",
+      "book_id": "LEG-FAITH",
+      "type": "print-signed",
+      "price_usd": "12.99",
+      "url": "",
+      "enabled": false
+    },
+    "faith-signed-hardcover": {
+      "title": "30 Days of Faith & Focus \u2014 signed hardcover",
+      "book_id": "LEG-FAITH",
+      "type": "print-signed",
+      "price_usd": "21.99",
+      "url": "",
+      "enabled": false
+    }
+  }
+}
