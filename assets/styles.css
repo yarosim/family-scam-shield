@@ -144,3 +144,7 @@ footer.site {
 footer.site a { color: var(--ink-muted); }
 .series-list { margin: 8px 0 0; padding: 0; list-style: none; }
 .series-list li { margin: 0 0 6px; }
+.badge.ed { background: #1b2a41; color: #f6f1e8; margin-left: 6px; }
+.gift { border-top: 3px solid var(--accent); margin-top: 28px; padding-top: 8px; }
+.gift .grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
+.magnet { display: grid; gap: 8px; }
