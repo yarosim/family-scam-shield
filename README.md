@@ -7,4 +7,4 @@ Public storefront for PNS Global LLC titles.
 
 Amazon buy buttons are included only for ASINs verified live. Direct-sale Stripe links are configured in `direct_links.json` and stay hidden until a URL is added after approval.
 
-Rebuild from `/workspace/publishing/site/pns-books-src/build_site.py`.
+Rebuild from `/workspace/publishing/site/storefront-v3-src/build_site.py`.
